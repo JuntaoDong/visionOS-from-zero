@@ -1,4 +1,4 @@
-# visionOS from 0
+# visionOS from 00
 
 ## WWDC23 visionOS sessions takeaways
 
@@ -11,4 +11,8 @@
   - Spaces: It's a dedicated full space, where your app's windows, volumes, and 3D objects are the only ones appearing across the view. There are two ways to use a Space:
     - Passthrough mode: Gound content in the real world and keep people connected with their surroundings.
     - Fully-immersive mode: Fill up the entire field of view.
+
+### Priciples of spatial design
+- Worth revisiting, many new design concepts comparing to screen-based design.
+
 
